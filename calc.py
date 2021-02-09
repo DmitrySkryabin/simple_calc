@@ -28,3 +28,5 @@ if whatwedo == '3':
 	print(num1," * ",num2," = ",multiply(num1,num2))
 if whatwedo == '4':
 	print(num1," / ",num2," = ",divide(num1,num2))
+else:
+	print("Введите корректоное значение")
